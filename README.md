@@ -96,8 +96,6 @@ The following files are required for the lab:
 
     ```c
     #include <stdio.h>
-#include <string.h>
-
 void copy_and_echo(const char* p)
 {
     int length = strlen(p);
